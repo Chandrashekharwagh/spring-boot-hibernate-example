@@ -42,7 +42,7 @@ Example `application.properties`:
 
 ```properties
 hibernate.id.new_generator_mappings=false
-hibernate.connection.driver_class = com.mysql.jdbc.Driver
+hibernate.connection.driver_class = org.h2.Driver
 ```
 
 ## Usage
